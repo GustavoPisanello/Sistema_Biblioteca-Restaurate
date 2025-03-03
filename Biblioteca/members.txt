@@ -1,0 +1,6 @@
+1,Gustavo,a
+2,Membro1,membro1@gmail.com
+3,a,a
+4,Amigo da vizinhança,spiderman@123.com
+5,Lívia Laur Pisanello,livinha@gmail.com
+6,Luna,luna@gmai.com
