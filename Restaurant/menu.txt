@@ -1,0 +1,3 @@
+Dish: Pizza | Price: 10 | Description: Tasty
+Dish: Hot Dog | Price: 5 | Description: Delicious
+Dish: Ice Cream | Price: 10 | Description: Cold and refreshing
